@@ -1,4 +1,4 @@
-// Copyright 2022 Brandon Smith (@Brandon Smith)
+// Copyright 2022 Brandon Smith (@tsk547)
 // SPDX-License-Identifier: GPL-2.0-or-later
 
 #include "gametyl.h"
